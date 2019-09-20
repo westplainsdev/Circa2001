@@ -29,3 +29,4 @@ SQL Helper, SQL Exception helper and a connectin string helper all live here.
 ## Supporting Documents
 
 We all need to have a database, and Microsoft's Northwind scripts live here. 
+Probably should have a MS SQL server in place. SQL Express is a good start. 
