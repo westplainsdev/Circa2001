@@ -1,0 +1,22 @@
+﻿body
+{
+    margin: auto;
+    width: 800px;
+    font: normal .83em tahoma, sans-serif;
+    color: #333333;
+}
+a
+{
+    color: #0000aa;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #0000ff;
+    text-decoration: underline;
+}
+
+ul.display
+{
+    list-style: none;
+}
