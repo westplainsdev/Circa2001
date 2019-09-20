@@ -32,7 +32,7 @@ namespace Project.Web
 
         private void DisplayEmployee()
         {
-            int employeeId = 0;
+            var employeeId = 0;
 
             if (!IsNullOrEmpty(uxEmployeeNumber.Text))
             {
